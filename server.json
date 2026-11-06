@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.0xmortuex/mdvault-mcp",
+  "description": "Work with a folder of markdown notes: ranked search, backlinks, frontmatter queries, safe edits and link-updating renames.",
+  "repository": {
+    "url": "https://github.com/0xmortuex/mdvault-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "mdvault-mcp",
+      "version": "0.1.0",
+      "transport": { "type": "stdio" }
+    }
+  ]
+}
